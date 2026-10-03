@@ -1,0 +1,4 @@
+<?php require_once 'includes/header.php'; ?>
+<section class="page-title"><h1>About GreenNest</h1><p>Simple shopping for a greener home.</p></section>
+<section class="section two-col"><div><h2>Plants made simple.</h2><p>GreenNest is a college project-style plant shopping website where customers can browse plants, filter categories, add products to a cart and place an order.</p><p>We focus on easy navigation, clean design and helpful plant-care information.</p></div><div class="info-card">🌱<h3>Our idea</h3><p>Make plant shopping friendly for beginners.</p></div></section>
+<?php require_once 'includes/footer.php'; ?>
